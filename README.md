@@ -1,18 +1,34 @@
-<h1 align="center">Hi 👋, I'm KALICHARAN HANSDA</h1>
-<h3 align="center">New to the field but a true enthusiast.</h3>
+<img alt="Banner" width="100%" src="https://i.pinimg.com/736x/d2/dc/d4/d2dcd4e515f401cc834e6ae5ba0dbd1a.jpg">
 
-- 🔭 I’m currently working on *some challenges of HackerRank.*
 
-- 🌱 I’m currently learning *C++,Matlab.*
+# <h1 align="center">Hi, I'm Kalicharan Hansda</h1>
 
-- 📫 How to reach me *kchansda27@gmail.com*
+I am currently pursuing Master's in Computer Application from NIT Jamshedpur. 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kalicharan-hansda-6aa180264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalicharan-hansda-6aa180264" height="30" width="40" /></a>
-<a href="https://instagram.com/the_mys_tery" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_mys_tery" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kchansda27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kchansda27" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+## Acknowledgements
+
+ - Currently pursuing MCA
+ - Learning C++🧑🏻‍💻
+ - Hackerrank - Problelm solving(2⭐), C++(4⭐)
+ - Learning Github
+
+
+
+
+## 🛠 Skills
+- HTML
+- CSS
+- JS
+
+
+## 🚀 About Me
+I'm a frontend Developer (Rookie, trying to master it by learning JS). Love travelling, playing outdoor games. <br>
+
+
+## 🔗 Links
+<a href="https://twitter.com/Mys_te_ry_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mys_te_ry" height="20" width="40" /></a>
+<a href="https://www.linkedin.com/in/kalicharan-hansda-6aa180264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/kalicharan-hansda-6aa180264/" height="20" width="40" /></a>
+<a href="https://www.instagram.com/the_mys_tery_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_mys_tery" height="20" width="40" /></a>
+<a href="https://www.hackerrank.com/kchansda27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kchansda27" height="20" width="40" /></a>
+
