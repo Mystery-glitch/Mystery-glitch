@@ -9,7 +9,8 @@ I am currently pursuing Master's in Computer Application from NIT Jamshedpur.
 ## Acknowledgements
 
  - Currently pursuing MCA
- - Learning C++🧑🏻‍💻
+ - Learning C++, Java🧑🏻‍💻
+ - Learning DSA
  - Hackerrank - Problelm solving(2⭐), C++(4⭐)
  - Learning Github
 
