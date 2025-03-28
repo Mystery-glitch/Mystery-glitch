@@ -18,11 +18,11 @@ I am currently pursuing Master's in Computer Application from NIT Jamshedpur.
 
 
 ## 🛠 Skills
+- Python
+- Java
 - HTML
 - CSS
 - JS
-- Python
-- Java
 - C++
 - C
 
