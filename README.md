@@ -1,4 +1,4 @@
-<img alt="Banner" width="1000px" height="400px" src="[https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=996&t=st=1696188977~exp=1696189577~hmac=d072a6f06a45c346def41c9799a2984996953fe380e5329ca26757b5c835883b](https://i.pinimg.com/736x/3a/37/5e/3a375ebc0fb5e745318f5c82cbafb6b5.jpg)">
+<img alt="Banner" width="1000px" height="400px" src="https://i.pinimg.com/736x/3a/37/5e/3a375ebc0fb5e745318f5c82cbafb6b5.jpg">
 
 
 # <h1 align="center">Hi, Myself KC</h1>
