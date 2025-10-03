@@ -13,7 +13,8 @@ I am currently pursuing Master's in Computer Application from NIT Jamshedpur.
  - Learning Python
  - Learning Machine Learning (More focused)
  - Hackerrank - Problelm solving(2⭐), C++(4⭐)
- - Leetcode - 120+ problems solved
+ - Leetcode - 200+ problems solved
+ - Codeforces - 100+ problems solved
 
 
 
