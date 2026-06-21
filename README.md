@@ -3,36 +3,25 @@
 
 # <h1 align="center">Hi, Myself KC</h1>
 
-I am currently pursuing Master's in Computer Application from NIT Jamshedpur. 
-
+Completed Masters in Computer Application from NIT Jamshedpur. 
+Currently working at Novel Patterns as an intern in AI/ML.
 
 ## Acknowledgements
 
- - Currently pursuing MCA
- - Learning DSA (in python)
- - Learning Python
- - Learning Machine Learning (More focused)
+ - Upgrading my skills Machine Learning and Artificial Intelligence
  - Hackerrank - Problelm solving(2⭐), C++(4⭐)
  - Leetcode - 200+ problems solved
  - Codeforces - 100+ problems solved
 
-
-
-
 ## 🛠 Skills
-- Python
-- Java
-- HTML
-- CSS
-- JS
-- C++
-- C
 
+- Python
+- Excel
 
 ## 🚀 About Me
-- I am dedicating myself to the field of Machine Learning. 
-- Have knowledge of front-end development.
-- Love travelling, playing outdoor games.
+
+- Travelling is fun 🤩.
+- Trying to explore.
 
 
 ## 🔗 Connect with me:
